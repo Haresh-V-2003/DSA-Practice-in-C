@@ -14,4 +14,6 @@
             Deletion at beginning, at end and at any index.<br>
 
 <b>Queue</b><br>
-            Enqueue, Dequeue operations.
+            Enqueue, Dequeue operations.<br>
+
+<b>Stack:</br>
