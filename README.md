@@ -17,4 +17,5 @@
             Enqueue, Dequeue operations.<br>
 
 <b>Stack:<b></br>
-            Push, Pop, Peek, Stacktop and Stackbottom operations
+            Push, Pop, Peek, Stacktop and Stackbottom operations<br>
+<b>Graph:</b><br>
